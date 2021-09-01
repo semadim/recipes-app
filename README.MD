@@ -19,7 +19,7 @@ Run `npm run test` for testing\
 Will run on port 9000
 
 
-3. Database: for this assignment I only use a JSON file located in data folder or our Backend. This JSON can be accessed and updated through Rest-api. 
+3. Database: for this assignment I only use a JSON file located in data folder of our Backend. This JSON can be accessed and updated through Rest-api. 
 
 
  
